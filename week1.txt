@@ -1,0 +1,27 @@
+1. 이번에 미니프로젝트를 진행하게 되는데 이때 활용을 꼭 해보고 싶습니다
+
+   처음 사용하는거다 보니 재미있고 신기한게 많습니다 sourcetree말고도 
+   
+   powershell을 활용해서도 가능하다고 들었는데 꼭 한번 해보고 싶습니다!
+
+2. 버전관리 : 수정한 파일을 commit하여 언제 무엇이 바뀌었는지 정리하는것
+    
+    repo : repository(저장소)의 약자로 remote repo , local repo 2가지로 되어있으면
+    
+    remote repo는 github에 저장되어있는 저장소 이고
+
+    local repo는 개인컴퓨터에 저장되어있는 저장소 입니다
+
+    tracking : local repo 와 remote repo를 연결하는것 을 뜻 합니다.
+  
+    sourcetree의 진행 과정은
+
+    local repo -> push -> remote repo -> pull -> local repo 
+
+    위 방식이 일반적인 경우 입니다.
+
+    clone : remote repo에 있는 데이터를 local repo에 저장하는것을 뜻 합니다.
+
+    다른 사람의 repo를 복사할수 있습니다!
+
+   
